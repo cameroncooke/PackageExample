@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TestPackage",
+        "repositoryURL": "git@github.com:cameroncooke/PackageExamplePackage.git",
+        "state": {
+          "branch": "master",
+          "revision": "aa0cb0224f91f7f2b6ea88ec38bee90151f2fcd1",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
